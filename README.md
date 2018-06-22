@@ -1,6 +1,6 @@
 # How-to-do-nodeppt
 # 根据nodeppt官方学习指导
-> 1.安装：npm install -g nodeppt
+### 1.安装：npm install -g nodeppt
 > 2.查看版本：nodeppt -v
 > 3.启动：nodeppt start -p <未使用的端口>
 > 4.配置：
@@ -8,7 +8,7 @@
 title: nodeppt markdown 演示
 speaker: Theo Wang
 url: https://github.com/ksky521/nodePPT
-transition: slide
+transition: cards
 files: /js/demo.js,/css/demo.css
 
 /*
