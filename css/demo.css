@@ -1,0 +1,6 @@
+pre{
+    overflow: scroll;width:auto;height:500px;font-size: 18px;
+}
+slides>slide .slide-wrapper{
+    max-width: 1100px;
+}
