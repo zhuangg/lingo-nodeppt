@@ -1,6 +1,7 @@
 # How-to-do-nodeppt
 # 根据nodeppt官方学习指导
 >1.安装：npm install -g nodeppt
+--
 >2.查看版本：nodeppt -v
 >3.启动：nodeppt start -p <未使用的端口>
 >4.配置：
